@@ -31,6 +31,7 @@
  - https://webtorrent.io/
  
 ## Uploading
+ - https://github.com/pqina/filepond
  - https://github.com/CdSy/react-resumable-uploader
  - https://developer.mozilla.org/en-US/docs/Web/API/Streams_API/Using_readable_streams
  - https://github.com/jsantell/s3-stream-upload
