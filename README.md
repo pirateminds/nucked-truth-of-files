@@ -1,8 +1,9 @@
 <h1 align="center">Nucked truth of files</h1>
 
 <p align="center">That the project created especially for <a href="https://holyjs-moscow.ru/">HollyJS 2018 in Moscow</a>.</p>
-
-The below you can find userfull links for self education the current state of files in web.
+<p align="center">
+ The below you can find userfull links for self education the current state of files in web.
+</p>
 
 ## Small demos to play with
  - http://unsuitable-sheep.surge.sh/ - test downloading content on different devices
